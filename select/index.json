@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "少女レイ（feat. 初音ミク）",
+  "base_artist": "みきとP",
+  "createdAt": "2026-02-14T10:37:36.486543Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "少女レイ (feat. 桐谷遥&日野森雫&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/01_少女レイ_(feat._桐谷遥&日野森雫&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "少女レイ (feat. 桐谷遥",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/02_少女レイ_(feat._桐谷遥_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "少女レイ (feat. 桐谷遥&日野森雫&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/03_少女レイ_(feat._桐谷遥&日野森雫&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "少女レイ (feat",
+      "artist": "MORE MORE JUMP！",
+      "has_synced": true,
+      "path": "select/04_少女レイ_(feat_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "少女レイ (feat. みきとP)",
+      "artist": "みきとP",
+      "has_synced": false,
+      "path": "select/pl_01_少女レイ_(feat._みきとP)_みきとP.txt"
+    }
+  ]
+}
